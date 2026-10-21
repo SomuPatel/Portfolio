@@ -1,0 +1,78 @@
+{
+  "name": "Soumya Kumar Patel",
+  "title": "CSR Executive",
+  "headline": "CSR & Sustainability | Community Engagement | Field Operations | Project Execution | MIS Reporting | SAP | Stakeholder Coordination",
+  "location": "Raigarh, Chhattisgarh, India",
+  "email": "khemrajpatel4567@gmail.com",
+  "phone": "+91 9340296094",
+  "employer": "Ridhi Corporate Services Limited (RCSL) · Adani Power Limited",
+  "currentRole": "Executive – CSR / Land Department",
+  "linkedin": "",
+  "website": "",
+  "photo": "assets/profile-photo.jpg",
+  "summary": "B.Com graduate with 3+ years of experience across sales, marketing and CSR. Currently working as an Executive in the CSR / Land Department through Ridhi Corporate Services Limited (RCSL) at Adani Power Limited, supporting CSR operations, SAP-based processes, site verification, documentation and coordination with internal teams and communities.",
+  "about": "Results-driven CSR professional with experience in field operations, community engagement, project execution, sales and marketing. My work combines on-ground coordination with accurate records, documentation and reporting. I have supported CSR initiatives across communities, worked with cross-functional teams, conducted site visits for verification and measurements, and helped coordinate operational requirements through SAP, Excel and MIS reporting.",
+  "experience": [
+    {
+      "role": "Executive – CSR / Land Department",
+      "company": "Ridhi Corporate Services Limited (RCSL), deployed at Adani Power Limited",
+      "start": "Dec 2025",
+      "end": "Present",
+      "location": "Raigarh, Chhattisgarh · On-site",
+      "type": "Full-time",
+      "bullets": [
+        "Create and process Purchase Requisitions (PRs), Purchase Orders (POs), gate passes and material enquiries in SAP.",
+        "Support CSR activities through coordination, documentation and operational assistance as required.",
+        "Conduct site visits for CSR works, including verification, measurements and photographic documentation.",
+        "Assist with billing, record maintenance and compliance documentation.",
+        "Coordinate with internal departments and field teams to support smooth execution of operational activities."
+      ]
+    },
+    {
+      "role": "CSR Apprentice",
+      "company": "Adani Power Thermal Plant · CSR initiatives",
+      "start": "Sep 2024",
+      "end": "Sep 2025",
+      "location": "Raigarh, Chhattisgarh",
+      "type": "Apprenticeship",
+      "bullets": [
+        "Built relationships with local communities to support the execution of CSR initiatives in villages.",
+        "Collaborated with cross-functional teams to improve project workflows and support timely completion of activities.",
+        "Managed CSR project data, documentation and reports for senior management.",
+        "Supported field activities and community engagement across education, healthcare, sports and social development initiatives."
+      ]
+    },
+    {
+      "role": "Promoter – Airtel Digital",
+      "company": "Airtel Digital",
+      "start": "Aug 2023",
+      "end": "Jul 2024",
+      "location": "Raigarh, Chhattisgarh · On-site",
+      "type": "Full-time",
+      "bullets": [
+        "Promoted Airtel Digital services and worked toward assigned sales targets.",
+        "Provided customer service, responded to enquiries and helped resolve customer issues.",
+        "Worked with team members to support sales plans and customer engagement."
+      ]
+    }
+  ],
+  "skills": ["Community Engagement", "Project Execution", "Project Coordination", "Field Operations Management", "Stakeholder Management", "Need Assessment", "CSR Documentation", "Data Management", "Management Information Systems (MIS)", "Microsoft Excel", "Advanced Excel Skills", "SAP ERP", "PR / PO Processing", "Gate Pass & Material Enquiries", "Billing & Record Maintenance", "Document Management", "Team Collaboration", "Communication Skills", "Sales", "Direct Sales", "Market Research", "Market Analysis", "Marketing Strategy", "Process Automation", "UI Designing"],
+  "skillGroups": [
+    {"title":"CSR & Field Operations","icon":"◎","skills":["Community Engagement","Project Execution","Project Coordination","Field Operations Management","Need Assessment","CSR Documentation","Stakeholder Management"]},
+    {"title":"Systems & Reporting","icon":"⌘","skills":["SAP ERP","PR / PO Processing","Gate Pass & Material Enquiries","Microsoft Excel","Advanced Excel Skills","MIS Reporting","Data Management","Document Management","Billing & Records"]},
+    {"title":"Business & Collaboration","icon":"↗","skills":["Team Collaboration","Communication Skills","Sales","Direct Sales","Market Research","Market Analysis","Marketing Strategy","Process Automation","UI Designing"]}
+  ],
+  "education": [
+    {"degree":"Master of Social Work (MSW) · Pursuing","institution":"Pandit Sundar Lal Sharma Open University, Bilaspur","period":"Jul 2026 – Jul 2028","grade":"In progress"},
+    {"degree":"Bachelor of Commerce (B.Com)","institution":"KG Arts and Science College, Raigarh · Shahid Nandkumar Patel Vishwavidyalaya","period":"2021 – 2024","grade":"57.55% · Second Division"},
+    {"degree":"Class 12 · CG Board","institution":"Government Higher Secondary School, Bade Bhandar, Raigarh","period":"2021","grade":"84%"},
+    {"degree":"Class 10 · CG Board","institution":"Government Higher Secondary School, Bade Bhandar, Raigarh","period":"2019","grade":"74%"}
+  ],
+  "focusAreas": [
+    {"title":"CSR programme support","description":"Supporting community-oriented work through coordination, documentation, field visits and operational follow-through.","icon":"◎"},
+    {"title":"Field verification & reporting","description":"Site verification, measurements, photographic records, data management and structured reporting.","icon":"⌖"},
+    {"title":"Community & stakeholder engagement","description":"Working with local communities, cross-functional teams and stakeholders to support project delivery.","icon":"↔"},
+    {"title":"Public hearing participation","description":"Participated in APL Raigarh Phase-III Public Hearing and supported community and stakeholder engagement activities.","icon":"◌"}
+  ],
+  "currentHighlights": ["SAP processing: PRs, POs, gate passes and material enquiries","CSR site verification, measurement and photo documentation","Billing support, records, compliance documents and team coordination"]
+}
